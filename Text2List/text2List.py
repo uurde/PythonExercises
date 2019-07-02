@@ -15,3 +15,4 @@ for word in wordList: print(word)
 for i in range(len(wordList)):
     print("{} {}".format(i + 1, wordList[i]))
 
+a = 1
